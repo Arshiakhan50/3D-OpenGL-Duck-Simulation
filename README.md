@@ -2,7 +2,7 @@
 **Author:** Arshia Sharifi  
 
 ## Project Overview
-This project is a real-time **3D simulation of a duck moving across a shooting booth** using OpenGL. It showcases expertise in **computer graphics**, including **manual matrix transformations**, **camera manipulation**, and smooth **animated motion**. The simulation emphasizes both technical graphics skills and creative scene design.
+This project is a real-time **3D simulation of a duck moving across a shooting booth** using OpenGL. It demonstrates expertise in **computer graphics**, including **manual matrix transformations**, **camera manipulation**, and smooth **animated motion**. The simulation highlights both technical skills and creative 3D scene design.
 
 ## Key Achievements
 - Implemented **custom 4x4 transformation matrices** with GLM, replacing default OpenGL matrix operations for full control over translation, rotation, and scaling.  
@@ -18,5 +18,5 @@ This project is a real-time **3D simulation of a duck moving across a shooting b
 - **Right Mouse** – Zoom in/out  
 
 ## Visuals
-1. Duck moving across the booth (animation in action)  
-2. Suggested: Scene overview showing both duck and booth with camera perspective
+![Duck moving across the booth](images/normal.png)  
+![Inverted view of the scene](images/inverted.png)
